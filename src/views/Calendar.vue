@@ -1,15 +1,13 @@
 <template>
-  <div class="home">
-    <h1>Home Page</h1>
+  <div class="calendar">
+    <h1>Calendar Page</h1>
   </div>
 </template>
-
 <script>
 // @ is an alias to /src
 // import WelcomeMessage from "@/components/WelcomeMessage.vue";
-
 export default {
-  name: "home",
+  name: "calendar",
   components: {
     // WelcomeMessage,
   },

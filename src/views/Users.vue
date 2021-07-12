@@ -1,6 +1,6 @@
 <template>
-  <div class="home">
-    <h1>Home Page</h1>
+  <div class="users">
+    <h1>Users Page</h1>
   </div>
 </template>
 
@@ -9,7 +9,7 @@
 // import WelcomeMessage from "@/components/WelcomeMessage.vue";
 
 export default {
-  name: "home",
+  name: "users",
   components: {
     // WelcomeMessage,
   },
